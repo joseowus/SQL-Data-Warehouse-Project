@@ -12,3 +12,4 @@ Building a modern data warehouse with databricks platform and notebook including
 objective 
 develop a modern data warehouse using databricks sql server to consolidate sales data, enabling analytical reporting and informed decision making 
 
+
